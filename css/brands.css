@@ -38,17 +38,7 @@
 	--button-border:1px solid #ffffff;
 }
 
-/* Amazon */
-.button-amazon {
-	--button-text:#000000;
-	--button-background:#FFFFFF;
-	--button-border:1px solid #212121;
-}
 
-/* Amazon Music */
-.button-amazon-music {
-	--button-text:#000000;
-	--button-background:#25D1DA;
 }
 
 /* Apple App Store */
